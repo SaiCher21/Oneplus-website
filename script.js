@@ -1,4 +1,6 @@
 'use strict';
+
+//html & css section division
 let sections = document.querySelectorAll('[id^="section"]');
 
 if (sections.length > 1) {
